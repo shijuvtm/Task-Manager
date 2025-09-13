@@ -32,7 +32,7 @@ This app allows users to **register, log in, and manage daily tasks with priorit
 ## 📸 Screenshots
 
 ### 🔹 Register
-![Register Page](screenshots/register.png)
+![Register Page](Screenshot_2025-09-01-12-15-40-574_com.android.chrome.jpg)
 
 ### 🔹 Login
 ![Login Page](screenshots/login.png)
