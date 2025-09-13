@@ -1,4 +1,4 @@
-# 📌 Task Manager
+# 📌Task Manager
 
 A simple and responsive **Task Manager application** built with **React.js (frontend)** and **Node.js/Express (backend)**.  
 This app allows users to **register, log in, and manage daily tasks with priorities**.
@@ -38,7 +38,7 @@ This app allows users to **register, log in, and manage daily tasks with priorit
 ![Login Page](Screenshot_2025-09-01-12-15-31-715_com.android.chrome.jpg)
 
 ### 🔹 Dashboard
-![Dashboard Page](screenshots/dashboard.png)
+![Dashboard Page](Screenshot_2025-09-01-12-15-24-416_com.android.chrome.jpg)
 
 ---
 
